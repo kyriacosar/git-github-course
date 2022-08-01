@@ -1,5 +1,5 @@
 # git-github-course
 
-## This is a repo created for Git and GitHub course, as part of the IBM DevOps Professional Certificate
+## What's this all about
 
-Its a markdown file in this repository.
+This is a repo created for Git and GitHub course, as part of the IBM DevOps Professional Certificate.
